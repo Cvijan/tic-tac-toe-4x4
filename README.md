@@ -1,5 +1,7 @@
 # 4x4  Икс-окс
 
+Додали смо нешто
+
 Контакт: [LinkedIn](https://www.linkedin.com/in/cvijanperanovic/)
 
 Играј игрицу онлајн овде: [Демо уживо](https://peranovicc.github.io/tic-tac-toe-4x4/)
