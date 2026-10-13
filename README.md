@@ -1,6 +1,6 @@
 # 4x4  Икс-окс
 
-Додали смо нешто
+Додали смо нешто ново
 
 Контакт: [LinkedIn](https://www.linkedin.com/in/cvijanperanovic/)
 
